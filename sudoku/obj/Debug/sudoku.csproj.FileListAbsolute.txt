@@ -1,0 +1,17 @@
+C:\Users\kiree\Documents\C#\sudoku\sudoku\sudoku\bin\Debug\sudoku.dll
+C:\Users\kiree\Documents\C#\sudoku\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\kiree\Documents\C#\sudoku\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\kiree\Documents\C#\sudoku\sudoku\sudoku\obj\Debug\sudoku.dll
+C:\Users\kiree\Documents\C#\sudoku\sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Users\Киреев Данил\Documents\sudoku\sudoku\bin\Debug\sudoku.dll
+C:\Users\Киреев Данил\Documents\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\Киреев Данил\Documents\sudoku\sudoku\obj\Debug\sudoku.csprojAssemblyReference.cache
+C:\Users\Киреев Данил\Documents\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Киреев Данил\Documents\sudoku\sudoku\obj\Debug\sudoku.dll
+C:\Users\Киреев Данил\Documents\sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Users\gydin\OneDrive\Рабочий стол\sudoku\sudoku\bin\Debug\sudoku.dll
+C:\Users\gydin\OneDrive\Рабочий стол\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\gydin\OneDrive\Рабочий стол\sudoku\sudoku\obj\Debug\sudoku.csprojAssemblyReference.cache
+C:\Users\gydin\OneDrive\Рабочий стол\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\gydin\OneDrive\Рабочий стол\sudoku\sudoku\obj\Debug\sudoku.dll
+C:\Users\gydin\OneDrive\Рабочий стол\sudoku\sudoku\obj\Debug\sudoku.pdb
